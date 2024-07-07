@@ -41,6 +41,12 @@ This project focuses on analysing the given Pizza Sales data using SQL queries a
 
 - Custom charts such as Donut chart, Slider chart, combination of Gantt and Bar chart
 
+### _Link to the Dashboard:_ 
+https://public.tableau.com/app/profile/navneet.kaur1271/viz/PizzaSalesDashboard_17201774131440/PizzaSalesReport?publish=yes
+
+
+
+ 
 
 
 
