@@ -1,44 +1,45 @@
-# [Pizza_Sales_Analysis] 
+# Pizza_Sales_Analysis
 
 [Pizza Sales Analysis.pptx](https://github.com/user-attachments/files/16118629/Pizza.Sales.Analysis.pptx)
 
 This project focuses on analysing the given Pizza Sales data using SQL queries and building an interactive dashboard using Tableau.
 
-- Objective: To generate actionable insights for the organization from the given Pizza Sales Data enabling informed decision-making for the stakeholders such as 
+ ### Objective:
+  To generate actionable insights for the organization from the given Pizza Sales Data enabling informed decision-making for the stakeholders such as 
 
--- Top and bottom performing pizzas, 
+- Top and bottom performing pizzas, 
 
--- Sales performance by pizza category and size, 
+- Sales performance by pizza category and size, 
 
--- Hourly and weekly trend of total orders.
+- Hourly and weekly trend of total orders.
 
-- Software used: 
+### Software used: 
 
--- Microsoft SQL Server Management Studio 20
+- Microsoft SQL Server Management Studio 20
 
--- Tableau 2024.1
+- Tableau 2024.1
 
-- Concepts used:
+### Concepts used:
 
-SQL:
+### SQL:
 
--- Basic: distinct, count distinct, Group by, order by
+- Basic: distinct, count distinct, Group by, order by
 
--- Intermediate: round function, datepart, sub-queries
+- Intermediate: round function, datepart, sub-queries
 
--- Advanced: window functions such as dense rank
+- Advanced: window functions such as dense rank
 
-Tableau:
+### Tableau:
 
--- Calculated fields.
+- Calculated fields.
 
--- Action filters, Interactive filters (drop down and Date range filters)
+- Action filters, Interactive filters (drop down and Date range filters)
 
--- Navigation buttons
+- Navigation buttons
 
--- Charts and graphs such as Area chart, Bar chart, KPI cards
+- Charts and graphs such as Area chart, Bar chart, KPI cards
 
--- Custom charts such as Donut chart, Slider chart, combination of Gantt and Bar chart
+- Custom charts such as Donut chart, Slider chart, combination of Gantt and Bar chart
 
 
 
